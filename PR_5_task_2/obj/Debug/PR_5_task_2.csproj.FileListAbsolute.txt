@@ -1,0 +1,15 @@
+C:\Users\krt32\Desktop\PR_5_task_2\PR_5_task_2\bin\Debug\PR_5_task_2.exe.config
+C:\Users\krt32\Desktop\PR_5_task_2\PR_5_task_2\bin\Debug\PR_5_task_2.exe
+C:\Users\krt32\Desktop\PR_5_task_2\PR_5_task_2\bin\Debug\PR_5_task_2.pdb
+C:\Users\krt32\Desktop\PR_5_task_2\PR_5_task_2\obj\Debug\PR_5_task_2.csproj.AssemblyReference.cache
+C:\Users\krt32\Desktop\PR_5_task_2\PR_5_task_2\obj\Debug\MainWindow.g.cs
+C:\Users\krt32\Desktop\PR_5_task_2\PR_5_task_2\obj\Debug\App.g.cs
+C:\Users\krt32\Desktop\PR_5_task_2\PR_5_task_2\obj\Debug\PR_5_task_2_MarkupCompile.cache
+C:\Users\krt32\Desktop\PR_5_task_2\PR_5_task_2\obj\Debug\PR_5_task_2_MarkupCompile.lref
+C:\Users\krt32\Desktop\PR_5_task_2\PR_5_task_2\obj\Debug\MainWindow.baml
+C:\Users\krt32\Desktop\PR_5_task_2\PR_5_task_2\obj\Debug\PR_5_task_2.g.resources
+C:\Users\krt32\Desktop\PR_5_task_2\PR_5_task_2\obj\Debug\PR_5_task_2.Properties.Resources.resources
+C:\Users\krt32\Desktop\PR_5_task_2\PR_5_task_2\obj\Debug\PR_5_task_2.csproj.GenerateResource.cache
+C:\Users\krt32\Desktop\PR_5_task_2\PR_5_task_2\obj\Debug\PR_5_task_2.csproj.CoreCompileInputs.cache
+C:\Users\krt32\Desktop\PR_5_task_2\PR_5_task_2\obj\Debug\PR_5_task_2.exe
+C:\Users\krt32\Desktop\PR_5_task_2\PR_5_task_2\obj\Debug\PR_5_task_2.pdb

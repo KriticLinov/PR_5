@@ -1,0 +1,17 @@
+﻿<Window x:Class="PR_5_task_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PR_5_task_2"
+        mc:Ignorable="d"
+        Title="Task 2" WindowStyle="ToolWindow" ResizeMode="NoResize" Height="300" Width="300">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Введите значение (0 для начала):" Margin="0 0 0 10"/>
+            <TextBox Text="{Binding Number}" Width="100" Margin="0 0 0 10"/>
+            <Button Content="Добавить" Command="{Binding AddNumberCommand}" Width="75"/>
+            <TextBlock Text="{Binding Average, StringFormat='Средний результат: {0:F1}'}" Margin="0 10 0 0"/>
+        </StackPanel>
+    </Grid>
+</Window>

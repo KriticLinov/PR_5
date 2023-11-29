@@ -1,0 +1,14 @@
+C:\Users\krt32\Desktop\PR_5_task_3\PR_5_task_3\bin\Debug\PR_5_task_3.exe.config
+C:\Users\krt32\Desktop\PR_5_task_3\PR_5_task_3\bin\Debug\PR_5_task_3.exe
+C:\Users\krt32\Desktop\PR_5_task_3\PR_5_task_3\bin\Debug\PR_5_task_3.pdb
+C:\Users\krt32\Desktop\PR_5_task_3\PR_5_task_3\obj\Debug\PR_5_task_3.csproj.AssemblyReference.cache
+C:\Users\krt32\Desktop\PR_5_task_3\PR_5_task_3\obj\Debug\PR_5_task_3.csproj.CoreCompileInputs.cache
+C:\Users\krt32\Desktop\PR_5_task_3\PR_5_task_3\obj\Debug\PR_5_task_3.exe
+C:\Users\krt32\Desktop\PR_5_task_3\PR_5_task_3\obj\Debug\PR_5_task_3.pdb
+C:\Users\krt32\Desktop\PR\PR_5\PR_5_task_3\bin\Debug\PR_5_task_3.exe.config
+C:\Users\krt32\Desktop\PR\PR_5\PR_5_task_3\bin\Debug\PR_5_task_3.exe
+C:\Users\krt32\Desktop\PR\PR_5\PR_5_task_3\bin\Debug\PR_5_task_3.pdb
+C:\Users\krt32\Desktop\PR\PR_5\PR_5_task_3\obj\Debug\PR_5_task_3.csproj.AssemblyReference.cache
+C:\Users\krt32\Desktop\PR\PR_5\PR_5_task_3\obj\Debug\PR_5_task_3.csproj.CoreCompileInputs.cache
+C:\Users\krt32\Desktop\PR\PR_5\PR_5_task_3\obj\Debug\PR_5_task_3.exe
+C:\Users\krt32\Desktop\PR\PR_5\PR_5_task_3\obj\Debug\PR_5_task_3.pdb
